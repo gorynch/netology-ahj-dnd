@@ -1,6 +1,6 @@
 {
   "name": "ahj-homeworks-dnd-trello",
-  "packageManager": "yarn@4.3.1",
+  "packageManager": "yarn@1.22.22",
   "scripts": {
     "dev": "webpack serve --config webpack.dev.js",
     "build": "webpack --config webpack.prod.js",

@@ -10,7 +10,6 @@ cache: node_modules  # кеширование
 
 install:
   - yarn  # команда установки зависимостей
-  - yarn set version 4.3.1
 
 build: off  # отключаем встроенную в appveyor систему сборки
 
