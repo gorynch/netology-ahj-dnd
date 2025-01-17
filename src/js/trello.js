@@ -382,7 +382,7 @@ export default class Trello {
     `
       + Trello.markupColumn('todo', 'ToDo')
       + Trello.markupColumn('in-progress', 'In progress ...')
-      + Trello.markupColumn('done', "Done. Great job")
+      + Trello.markupColumn('done', 'Done. Great job')
       + `
         </div>
       </div>
